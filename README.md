@@ -88,6 +88,16 @@ no próprio código.
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gustavocunhalacerda/)](https://www.linkedin.com/in/gustavocunhalacerda/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavocunhalacerda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocunhalacerda@gmail.com)](mailto:gustavocunhalacerda@gmail.com)
 </div>
+<div style="display: inline">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45939283?s=400&u=e33afc067300f2e29cc7209c954fd927a3be8cab&v=4" width="100px;" alt=""/>
+ <br />
+ <a><sub><b>João Vítor Souza Rezende</b></sub></a>
+ <br />
+
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gustavocunhalacerda/)](https://www.linkedin.com/in/joão-vítor-souza-rezende-536758190/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavocunhalacerda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocunhalacerda@gmail.com)](mailto:vitorsr116@gmail.com)
+</div>
 </div>
 
 ---
